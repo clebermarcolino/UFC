@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4dcb7279-43bf-4092-ac5a-22153d26a7e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Controle/src/exception/ControleRemotoDesligadoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Controle/src/main/Controlador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Controle/src/main/ControleRemoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Controle/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pilha/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pilha/src/Pilha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pilha/src/PilhaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/luta/Luta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/luta/Lutador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/LutaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/LutadorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/AtividadeAPS 1-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/out/production/AtividadeAPS 1-1/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/out/production/AtividadeAPS 1-1/AtividadeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/out/production/AtividadeAPS 1-1/Disciplina.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/out/production/AtividadeAPS 1-1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/out/production/AtividadeAPS 1-1/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/out/production/AtividadeAPS 1-1/Turma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/src/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/src/AtividadeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/src/Disciplina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/src/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeAPS 1-1/src/Turma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeInterface/out/production/AtividadeInterface/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AtividadeInterface/out/production/AtividadeInterface/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeInterface/src/1ªAtividadeInterfaces.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeInterface/src/Arara.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtividadeInterface/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AtividadeInterface/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/ContaBanco.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContaBanco/ContaBanco.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/out/production/ContaBanco/ContaBanco.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/out/production/ContaBanco/ContaBanco/ContaBanco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/out/production/ContaBanco/ContaBanco/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/src/ContaBanco/ContaBanco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/src/ContaBanco/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2U2MrP4HPtfB6AuQb449RfXrOJu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/clebs/IdeaProjects/UFC&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="UFC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="luta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LutaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UFC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="luta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.LutaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LutaTest.testLutarLutaNaoAprovada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UFC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="luta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.LutaTest" />
+      <option name="METHOD_NAME" value="testLutarLutaNaoAprovada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LutadorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UFC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="luta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.LutadorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LutadorTest.testCriarLutador" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UFC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="luta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.LutadorTest" />
+      <option name="METHOD_NAME" value="testCriarLutador" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.LutaTest" />
+        <item itemvalue="JUnit.LutadorTest.testCriarLutador" />
+        <item itemvalue="JUnit.LutadorTest" />
+        <item itemvalue="JUnit.LutaTest.testLutarLutaNaoAprovada" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dcb7279-43bf-4092-ac5a-22153d26a7e8" name="Changes" comment="" />
+      <created>1692133425576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692133425576</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/LutadorTest.java</url>
+          <line>9</line>
+          <properties class="main.LutadorTest" method="testCriarLutador">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
